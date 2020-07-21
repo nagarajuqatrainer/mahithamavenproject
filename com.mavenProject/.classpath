@@ -36,5 +36,6 @@
 	<classpathentry kind="lib" path="E:/Selenium_JAR_Files/selenium-java-3.141.59/libs/libs/okhttp-3.11.0.jar"/>
 	<classpathentry kind="lib" path="E:/Selenium_JAR_Files/selenium-java-3.141.59/libs/libs/okio-1.14.0.jar"/>
 	<classpathentry kind="lib" path="E:/Selenium_JAR_Files/selenium-java-3.141.59/libs/libs/selenium-server-standalone-3.141.59 (1).jar"/>
+	<classpathentry kind="lib" path="E:/Selenium_JAR_Files/commons-io-1.1.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
